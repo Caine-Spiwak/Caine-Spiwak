@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Background
++ Most of my working days has been as a plumber. But... I've always had an itch for entrepreneurialism. Watching my father build engines and plumbing systems from the ground up instilled a certain type of focus and attention to detail in me. Training as a plumber apprentice and eventually running my own service calls as a Technician, taught me how to operate under high stress situations, like repairing water lines on the top floor of a hospital where a small mistake could lead to flooding the whole building from the top down. 
++ During this time I have been very self-motivated, trying out many different side hustles either for additional income or in the hopes of starting a small business out of it. Most of the time I’ve “failed” but I’ve also learned many other skills in the process such as, sales, marketing, communication, leadership and more.
++ I've always had a project I was working on outside of my job. Including getting my real estate license, building dropshipping sites (wordpress & elementor), running facebook/google ads for those sites as well s for some real estate agent friends. I've ran into "coding" a few times along the way but always thought it was something I might not be capable of doing.
+
+# Getting Started in Web Dev
+
