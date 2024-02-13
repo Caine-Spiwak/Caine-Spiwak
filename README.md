@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - __SIDE NOTE__: I'm co-founder of FLOSS BOSS RDH a small business i started with my girlfriend that brings profit every month. 🎉
 
 # Getting Started in Web Dev
-+ I was supporting my girlfirend and I while she went to school for dental hygeine. Jumping into plumbing directly after high school, I didn't feel like an 'academic education' was for me. However, I was amazed how well she was being compensated for her hard work once she graduated. I thought to myself that I wanted to bring more to the table for us and our future family so I started researching. I ran into Software Development. After some learning online (started with Python) I realzied this career path was a match made in heaven for me. I have many ideas I'd love to build, just not enough time to execute them all! I've been enjoying working with Node.js backend and React frontend.
++ I was supporting my girlfriend and I while she went to school for dental hygeine. Jumping into plumbing directly after high school, I didn't feel like an 'academic education' was for me. However, I was amazed how well she was being compensated for her hard work once she graduated. I thought to myself that I wanted to bring more to the table for us and our future family so I started researching. I ran into Software Development. After some learning online (started with Python) I realizied this career path was a match made in heaven for me. I have many ideas I'd love to build, just not enough time to execute them all! I've been enjoying working with Node.js backend and React frontend.
 
 ### 🔭 I’m currently working on ...
 + My personal projects and finding a team to join.
